@@ -33,7 +33,6 @@ Program to implement the multivariate linear regression model for predicting the
 Developed by: A.LAHARI
 RegisterNumber:  212223230111
 */
-
 import numpy as np
 import pandas as pd
 from sklearn.datasets import fetch_california_housing
@@ -75,7 +74,6 @@ print("\nPredictions:\n",Y_pred[:5])
 
 
 ![image](https://github.com/user-attachments/assets/17acf25f-e13b-452d-8842-58b840f44f6d)
-
 
 
 ## Result:
