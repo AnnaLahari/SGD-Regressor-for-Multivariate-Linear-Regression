@@ -70,10 +70,10 @@ print("\nPredictions:\n",Y_pred[:5])
 
 ## Output:
 
-
+## df.head()
 ![image](https://github.com/user-attachments/assets/9e548b76-c051-4c78-a6c9-ec533ac84afa)
 
-
+## Prediction
 ![image](https://github.com/user-attachments/assets/d25d194e-e574-4238-be6a-f148c6cf2d00)
 
 
