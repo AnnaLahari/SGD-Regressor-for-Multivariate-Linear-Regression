@@ -70,10 +70,11 @@ print("\nPredictions:\n",Y_pred[:5])
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/d0f5c5bb-2f79-4655-9150-bbbfa9162358)
+![image](https://github.com/user-attachments/assets/9e548b76-c051-4c78-a6c9-ec533ac84afa)
 
 
-![image](https://github.com/user-attachments/assets/17acf25f-e13b-452d-8842-58b840f44f6d)
+![image](https://github.com/user-attachments/assets/d25d194e-e574-4238-be6a-f148c6cf2d00)
+
 
 
 ## Result:
